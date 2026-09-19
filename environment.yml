@@ -1,0 +1,11 @@
+name: cs6956-mdn
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pytorch
+  - numpy
+  - matplotlib
+  - jupyterlab
+  - ipykernel
