@@ -31,7 +31,3 @@ To remove the environment completely:
 ```text
 conda env remove --name cs6956-mdn
 ```
-
-## Optional pip setup
-
-If Conda is unavailable, [requirements.txt](requirements.txt) can be used with a standard Python virtual environment. The Conda workflow above is the primary, reproducible setup for this project.
